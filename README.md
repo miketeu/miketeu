@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @miketeu
-- 👀 I’m interested in ...
+- 👀 I’m interested in Python and front end skills.
 - 🌱 I’m currently learning with Trilogy Skills Bootcamp in Front-End Web Development 
 - 💞️ I’m looking to collaborate on some projects that I have started but which are on hold until above course completed in March 2023
 - 📫 How to reach me Email:- mike.teuten@gmail.com
